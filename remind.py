@@ -2,7 +2,6 @@ from email import message
 from operator import truediv
 from socket import timeout
 import time
-from turtle import color
 from plyer import notification
 
 if __name__ == '__main__':
